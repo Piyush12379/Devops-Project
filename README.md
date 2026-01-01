@@ -1,25 +1,58 @@
-# Real-Time Process Monitoring Dashboard  
+📊 Real-Time Process Monitoring Dashboard
 
-This project is a **real-time process monitoring dashboard** built using **Node.js** and **Express.js**. It provides various system statistics, including running processes, CPU and memory usage, disk space, and network activity.  
+A Real-Time Process Monitoring Dashboard built using Java Spring Boot for the backend and HTML, CSS, and JavaScript for the frontend.
+This project displays live system metrics such as CPU usage, memory usage, disk space, network activity, and running processes through a web-based dashboard.
 
----
+🚀 Project Overview
 
-## Features  
+Modern systems require continuous monitoring to ensure performance, stability, and efficient resource usage.
+This project provides a lightweight and real-time monitoring solution that helps users understand what is happening inside their system at any moment.
 
-- **View running processes**: Fetches the list of active processes with their PID and memory usage.  
-- **Kill a process**: Terminate a process by providing its PID.  
-- **Monitor system stats**: Get real-time CPU, memory, disk, and network usage.  
+The dashboard fetches system data from the backend using REST APIs and displays it visually using charts and tables.
 
----
+🎯 Key Features
 
-## Installation  
+🔄 Real-time process monitoring
 
-### Prerequisites  
-Ensure you have **Node.js** and **npm** installed on your system.  
+⚙️ Live CPU usage (core-wise and overall)
 
-### Steps  
+🧠 Memory usage (total, used, free)
 
-1. **Clone the repository**  
-   ```bash
-   git clone <repo-url>
-   cd real-time-process-monitoring
+💾 Disk usage statistics
+
+🌐 Network upload and download speed
+
+📈 Interactive charts and graphs
+
+🖥️ Responsive web-based dashboard
+
+🚀 Fast and lightweight performance
+
+🛠️ Technology Stack
+Backend
+
+- Java
+
+- Spring Boot
+
+- OSHI (Operating System and Hardware Information Library)
+
+- REST APIs
+
+Frontend
+
+ - HTML5
+
+ - CSS3
+
+ - JavaScript
+
+ - Chart.js
+
+DevOps & Build Tools
+
+ - Maven – build automation and dependency management
+
+ - Git – version control
+
+ - GitHub – repository hosting and collaboration
