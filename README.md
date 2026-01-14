@@ -1,7 +1,7 @@
 📊 Real-Time Process Monitoring Dashboard
 
 A Real-Time Process Monitoring Dashboard built using Java Spring Boot for the backend and HTML, CSS, and JavaScript for the frontend.
-This project displays live system metrics such as CPU usage, memory usage, disk space, network activity, and running processes through a web-based dashboard.
+This project displays live system metrics such as CPU usage, memory usage, disk space, network activity, and running processes through a web-based dashboard
 
 🚀 Project Overview
 
